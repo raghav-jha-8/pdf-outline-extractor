@@ -109,3 +109,6 @@ Built for Adobe India Hackathon 2025 – Round 2
 Processing: file01.pdf
 Saved to app/output/file01.json
 ```
+
+---
+© 2025 Creanovate | Adobe India Hackathon Submission
